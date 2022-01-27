@@ -1,3 +1,13 @@
+## TEMAS DEL CURSO
+1 Introducción a TypeScript.
+2 Declaración de tipos de variable en TypeScript.
+3 Implementación de interfaces en TypeScript.
+4 Desarrollo de funciones con tipo mediante TypeScript.
+5 Declaración de clases en TypeScript y creación de una instancia de estas.
+6 Definición de genéricos en TypeScript.
+7 Acceso a bibliotecas externas desde TypeScript.
+8 Organización del código mediante los espacios de nombres de TypeScript.
+
 ## Using the Lab start and end solution files
 
 You can use the TypeScript [Playground](https://www.typescriptlang.org/play), Visual Studio Code, or any TypeScript-compatible IDE to complete the labs in the "Developing JavaScript applications using TypeScript" [LINK TO the Developing JavaScript applications using TypeScript] learning path.
